@@ -23,7 +23,6 @@ Model ini akan menghasilkan metrik performa seperti:
 -F1-Score yang baik untuk menangani distribusi kelas
 
 Untuk output pada model ini, akan tercetak di folder A1Output
-======================================================================================================
 
 Model-Alpha 2
 ======================================================================================================
@@ -40,4 +39,4 @@ berikut adalah output yang dihasilkan :
 -ROCcurve-LogisticRegression-YYYY-MM-DD.png
 
 Untuk output pada model ini, akan tercetak di folder A2Output
-======================================================================================================
+
