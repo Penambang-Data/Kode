@@ -7,10 +7,12 @@ Output	            Model prediksi defect: 0 = clean, 1 = buggy
 Evaluasi	        Accuracy, Precision, Recall, F1-Score, ROC-AUC
 Tools	            Python + Scikit-learn + Pandas + Matplotlib + Seaborn
 
-persyaratan Debuggin model instalasi library berikut :
+persyaratan untuk Debuggin model dan instalasi library :
 -"pip install scikit-learn"
 -"python -m pip install scikit-learn"
 -"pip install pandas matplotlib seaborn"
+-pastikan kedua file dataset GHRP "ghprdata.csv" dan ApacheJIT "apachejit_total.csv" 
+sudah berada di folder yang sama dengan model A1 atau A2
 
 Model-Alpha 1
 ======================================================================================================
