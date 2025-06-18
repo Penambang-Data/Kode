@@ -26,7 +26,8 @@ Untuk output pada model ini, akan tercetak di folder A1Output
 ======================================================================================================
 
 Model-Alpha 2
-======================================================================================================Model ini adalah model Alpha 1 yang sudah diimprovisasi dengan mengubah 
+======================================================================================================
+Model ini adalah model Alpha 1 yang sudah diimprovisasi dengan mengubah 
 Model menjadi cross-validation + grid search juga ditambahkan visualisasi
 confusion matrix dan ROC curve pada output yang dihasilkan.
 
