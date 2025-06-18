@@ -10,6 +10,7 @@ Spesifikasi Model
 |Tools	         |  Python + Scikit-learn + Pandas + Matplotlib + Seaborn|
 
 persyaratan untuk Debuggin model dan instalasi library :
+======================================================================================================
 -"pip install scikit-learn"
 -"python -m pip install scikit-learn"
 -"pip install pandas matplotlib seaborn"
