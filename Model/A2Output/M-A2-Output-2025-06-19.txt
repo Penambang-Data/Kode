@@ -1,0 +1,23 @@
+=== Random Forest (Best Params) ===
+              precision    recall  f1-score   support
+
+       False       0.79      0.86      0.82     15625
+        True       0.50      0.38      0.43      5710
+
+    accuracy                           0.73     21335
+   macro avg       0.65      0.62      0.63     21335
+weighted avg       0.71      0.73      0.72     21335
+
+ROC AUC: 0.7071713737302978
+
+=== Logistic Regression (Best Params) ===
+              precision    recall  f1-score   support
+
+       False       0.76      0.97      0.85     15625
+        True       0.64      0.15      0.24      5710
+
+    accuracy                           0.75     21335
+   macro avg       0.70      0.56      0.54     21335
+weighted avg       0.73      0.75      0.69     21335
+
+ROC AUC: 0.7434885828371278
