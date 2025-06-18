@@ -2,12 +2,13 @@ Spesifikasi Model
 
 Komponen	        Implementasi
 ======================================================================================================
-Input	         |   Dataset primer yang sudah dibersihkan (apachejit_total.csv, ghpr.csv)
-Preprocessing	 |  Feature selection, normalisasi, label encoding
-Algoritma	     |  Random Forest Classifier + Logistic Regression (dibandingkan)
-Output	       |    Model prediksi defect: 0 = clean, 1 = buggy
-Evaluasi	     |  Accuracy, Precision, Recall, F1-Score, ROC-AUC
-Tools	         |  Python + Scikit-learn + Pandas + Matplotlib + Seaborn
+|---|---|
+|Input	         |   Dataset primer yang sudah dibersihkan (apachejit_total.csv, ghpr.csv)|
+|Preprocessing	 |  Feature selection, normalisasi, label encoding|
+|Algoritma	     |  Random Forest Classifier + Logistic Regression (dibandingkan)|
+|Output	       |    Model prediksi defect: 0 = clean, 1 = buggy|
+|Evaluasi	     |  Accuracy, Precision, Recall, F1-Score, ROC-AUC|
+|Tools	         |  Python + Scikit-learn + Pandas + Matplotlib + Seaborn|
 
 persyaratan untuk Debuggin model dan instalasi library :
 -"pip install scikit-learn"
