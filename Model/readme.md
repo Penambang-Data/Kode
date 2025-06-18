@@ -1,7 +1,6 @@
 Spesifikasi Model 
 
-Komponen	        Implementasi
-======================================================================================================
+|Komponen	|        Implementasi |
 |---|---|
 |Input	         |   Dataset primer yang sudah dibersihkan (apachejit_total.csv, ghpr.csv)|
 |Preprocessing	 |  Feature selection, normalisasi, label encoding|
