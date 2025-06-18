@@ -21,9 +21,9 @@ Model-Alpha 1
 ======================================================================================================
 Model ini akan menghasilkan metrik performa seperti:
 
--Akurasi tinggi (>80% pada dataset seimbang)
--ROC-AUC sebagai metrik utama, karena dataset bisa saja imbalanced  
--F1 Score yang baik untuk menangani distribusi kelas  
+>Akurasi tinggi (>80% pada dataset seimbang)
+>ROC-AUC sebagai metrik utama, karena dataset bisa saja imbalanced  
+>F1-Score yang baik untuk menangani distribusi kelas  
 
 Untuk output pada model ini, akan tercetak di folder A1Output
 
@@ -35,11 +35,11 @@ confusion matrix dan ROC curve pada output yang dihasilkan.
 
 berikut adalah output yang dihasilkan :
 
--M-A2-Output-YYYY-MM-DD.txt — hasil evaluasi  
--ConfusionMatrix-RandomForest-YYYY-MM-DD.png  
--ROCcurve-RandomForest-YYYY-MM-DD.png  
--ConfusionMatrix-LogisticRegression-YYYY-MM-DD.png  
--ROCcurve-LogisticRegression-YYYY-MM-DD.png  
+>M-A2-Output-YYYY-MM-DD.txt — hasil evaluasi  
+>ConfusionMatrix-RandomForest-YYYY-MM-DD.png  
+>ROCcurve-RandomForest-YYYY-MM-DD.png  
+>ConfusionMatrix-LogisticRegression-YYYY-MM-DD.png  
+>ROCcurve-LogisticRegression-YYYY-MM-DD.png  
 
 Untuk output pada model ini, akan tercetak di folder A2Output
 
