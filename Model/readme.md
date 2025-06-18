@@ -22,8 +22,8 @@ Model-Alpha 1
 Model ini akan menghasilkan metrik performa seperti:
 
 -Akurasi tinggi (>80% pada dataset seimbang)
--ROC-AUC sebagai metrik utama, karena dataset bisa saja imbalanced
--F1-Score yang baik untuk menangani distribusi kelas
+-ROC-AUC sebagai metrik utama, karena dataset bisa saja imbalanced  
+-F1-Score yang baik untuk menangani distribusi kelas  
 
 Untuk output pada model ini, akan tercetak di folder A1Output
 
